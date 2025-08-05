@@ -1,0 +1,9 @@
+2025-08-05 05:51:31 - Hazard: send food in sector 6 (Response time: 10 mins)
+2025-08-05 05:51:43 - Hazard: send water in zigatola (Response time: 10 mins)
+2025-08-05 18:22:15 - model.HazardAlert@4fc24d0a
+2025-08-05 18:22:35 - model.HazardAlert@3198ed73
+2025-08-05 18:45:59 - model.HazardAlert@106a10d7
+2025-08-05 18:47:42 - model.HazardAlert@4eb2bd9a
+2025-08-05 18:59:52 - [HazardAlert] null | Urgency: 3 | Estimated Response Time: 13 mins
+2025-08-05 19:04:15 - [HazardAlert] [Flood] send food in dhanmondi | Urgency: 3 | Estimated Response Time: 13 mins
+2025-08-05 19:21:12 - [HazardAlert] [Other] Hello! give me 200 taka bkash | Urgency: 3 | Estimated Response Time: 13 mins
