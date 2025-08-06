@@ -7,3 +7,11 @@
 2025-08-05 18:59:52 - [HazardAlert] null | Urgency: 3 | Estimated Response Time: 13 mins
 2025-08-05 19:04:15 - [HazardAlert] [Flood] send food in dhanmondi | Urgency: 3 | Estimated Response Time: 13 mins
 2025-08-05 19:21:12 - [HazardAlert] [Other] Hello! give me 200 taka bkash | Urgency: 3 | Estimated Response Time: 13 mins
+2025-08-06 18:03:24 - [HazardAlert] [Flood] ywydfhwDHHDUIhdeu | Urgency: 3 | Estimated Response Time: 13 mins
+2025-08-06 18:04:42 - [HazardAlert] [Flood] 123435#$%%% | Urgency: 3 | Estimated Response Time: 13 mins
+2025-08-06 18:04:58 - [HazardAlert] [Flood] #$%@#$$%# | Urgency: 3 | Estimated Response Time: 13 mins
+2025-08-06 18:09:23 - [HazardAlert] [Flood] 1234235$%$#s | Urgency: 3 | Estimated Response Time: 13 mins
+2025-08-06 18:57:40 - [HazardAlert] [Fire] fire alert at tezgaon | Urgency: 5 | Estimated Response Time: 8 mins
+2025-08-06 19:00:47 - [HazardAlert] [Other] theft at mirput -11 | Urgency: 4 | Estimated Response Time: 10 mins
+2025-08-06 19:12:26 - [HazardAlert] [Other] 1234546534#$%^y | Urgency: 4 | Estimated Response Time: 10 mins
+2025-08-06 19:16:16 - [HazardAlert] [Flood] 123435764645%$#@#$# | Urgency: 3 | Estimated Response Time: 13 mins

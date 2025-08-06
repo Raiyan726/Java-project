@@ -7,7 +7,8 @@ public abstract class BaseMessage {
     public BaseMessage(String message, int urgency) {
         this.message = message;
         this.urgency = urgency;
-    }
+    } 
+    
 
     public String getMessage() {
         return message;
@@ -17,7 +18,13 @@ public abstract class BaseMessage {
         return urgency;
     }
 
-    // Abstract methods that subclasses must implement
+    
     public abstract String getType();
-    public abstract int calculateResponseTime();
+    public abstract int calculateResponseTime(); 
+     
+    @Override
+    public String toString() {
+        return "[" + getType() + "] " + message + " | Urgency: " + urgency +
+               " | Response Time: " + calculateResponseTime() + " mins";
+    }
 }

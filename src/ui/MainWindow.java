@@ -88,8 +88,8 @@ public class MainWindow extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 try {
                     String text = inputField.getText().trim();
-                    if (text.isEmpty()) {
-                        throw new InvalidMessageException("Alert cannot be empty!");
+                    if (text.isEmpty() || !text.matches(".*[a-zA-Z]+.*")) {
+                        throw new InvalidMessageException("Alert must contain valid words (not just numbers or symbols).");
                     }
 
                     String type = (String) typeDropdown.getSelectedItem();

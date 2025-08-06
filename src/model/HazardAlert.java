@@ -4,8 +4,12 @@ public class HazardAlert extends BaseMessage {
 
     public HazardAlert(String text, int urgency) {
         super(text, urgency);
-    }
-
+    } 
+    
+    public HazardAlert(String text) {
+        super(text, 3); 
+    } 
+    
     @Override
     public String getType() {
         return "Hazard";
@@ -13,13 +17,9 @@ public class HazardAlert extends BaseMessage {
 
     @Override
     public int calculateResponseTime() {
-        return 40 / getUrgency(); // Simple urgency formula
+        return 40 / getUrgency(); 
     }
 
-    @Override
-    public String toString() {
-        return "[HazardAlert] " + super.getMessage() + " | Urgency: " + getUrgency() +
-               " | Estimated Response Time: " + calculateResponseTime() + " mins";
-    }
+  
 }
 
